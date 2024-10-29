@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Rahel, a data analyst.
+## Hi there 👋 I'm Rahel, a Data Analyst.
 
 Welcome to my GitHub account! Here, you'll find a collection of projects showcasing my data analytics expertise. I've included reports created with tools like Python, Excel, R, SQL, and Power BI. Each project demonstrates my ability to analyze data and present insights in a clear, visually engaging manner, making it easy for decision-makers to understand and act on the findings.
 

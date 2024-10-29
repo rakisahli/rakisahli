@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Rahel, a data analyst.
 
-<!--
+
 **rakisahli/rakisahli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 🤝  I'm open to collaborating on:

@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there 👋 I'm Rahel, a data analyst.
 
 <!--
 **rakisahli/rakisahli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🤝  I'm open to collaborating on:
+    - Data Analysis Projects: Bringing data to life with insights that drive impactful decisions.
+    - Statistical Techniques: Applying advanced statistical methods to unlock trends and optimize results.
+🌍  I'm based in California.
+📫 You can reach me at Rahel.Ghebr@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills:
+![image](https://github.com/user-attachments/assets/fd0b6e43-c534-4571-9fc5-6e15430703b4)
+
+
